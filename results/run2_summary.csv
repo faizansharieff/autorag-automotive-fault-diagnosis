@@ -1,0 +1,5 @@
+system,correct,relevance,rougeL,faithfulness,citation_rate,retrieval_hit,latency_s,halluc
+llm_only,0.188,0.417,0.103,,,,11.086,
+vanilla_rag,0.125,0.345,0.099,0.222,0.244,0.0,6.964,0.778
+multisource_rag,0.225,0.398,0.19,0.29,0.506,0.175,7.619,0.71
+multisource_rag_verified,0.262,0.421,0.154,0.396,0.728,0.175,7.988,0.604
